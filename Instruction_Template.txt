@@ -1,0 +1,6 @@
+BASICS:
+
+1. The Images are within the Sub Folders in drive W and Y. 
+Paths :  W:\ and Y:\
+2. Folders have Name pattern like 1940_04_07#00002#HAA_0015_S which is - Date of image#flight number#SORTIE. 
+3. Images have Name pattern like 0020#00002#HAA_0015_S#_#07_04_1940 which is - Image number#Flight number#SORTIE#Date of Image. 
